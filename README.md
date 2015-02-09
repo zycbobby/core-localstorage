@@ -6,3 +6,6 @@ See the [component landing page](http://polymer-project.org/docs/elements/core-e
 2015-2-7
 After I check it, I found it if the client use core-localstorage and listen to valueChanged event, it would override the core-localstorage's valueChanged function called
 I will fix this
+
+2015-2-9
+No bugs, checked
